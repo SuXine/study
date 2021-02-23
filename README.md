@@ -7,7 +7,7 @@
     - 包含简单工厂模式 和 抽象工厂模式
 2. [单例模式](./src/main/java/com/libra/design/patterns/singleton)    
 3. [建造者模式](./src/main/java/com/libra/design/patterns/builder)
-4. [原型模式-代补充](./src/main/java/com/libra/design/patterns/待补充)
+4. [原型模式](./src/main/java/com/libra/design/patterns/prototype)
 ### 结构模式
 1. [适配器模式](./src/main/java/com/libra/design/patterns/adapter)
 2. [装饰者模式](./src/main/java/com/libra/design/patterns/decorator)
@@ -23,7 +23,7 @@
 4. [命令模式](./src/main/java/com/libra/design/patterns/command)
 5. [策略模式-代补充](./src/main/java/com/libra/design/patterns/待补充)
 6. [模板方法模式-代补充](./src/main/java/com/libra/design/patterns/待补充)
-7. [备忘录模式-代补充](./src/main/java/com/libra/design/patterns/待补充)
+7. [备忘录模式](./src/main/java/com/libra/design/patterns/memento)
 8. [状态模式-代补充](./src/main/java/com/libra/design/patterns/待补充)
 9. [访问者模式-代补充](./src/main/java/com/libra/design/patterns/待补充)
 10. [中介模式-代补充](./src/main/java/com/libra/design/patterns/待补充)
