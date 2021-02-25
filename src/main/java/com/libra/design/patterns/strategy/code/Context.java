@@ -1,6 +1,6 @@
-package com.libra.design.patterns.strategy.template;
+package com.libra.design.patterns.strategy.code;
 
-import com.libra.design.patterns.strategy.template.strategy.Strategy;
+import com.libra.design.patterns.strategy.code.strategy.Strategy;
 
 public class Context {
     private Strategy strategy;

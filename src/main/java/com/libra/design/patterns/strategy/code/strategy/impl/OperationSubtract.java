@@ -1,6 +1,6 @@
-package com.libra.design.patterns.strategy.template.strategy.impl;
+package com.libra.design.patterns.strategy.code.strategy.impl;
 
-import com.libra.design.patterns.strategy.template.strategy.Strategy;
+import com.libra.design.patterns.strategy.code.strategy.Strategy;
 
 public class OperationSubtract implements Strategy {
     @Override
